@@ -1,12 +1,51 @@
-# Keyboard layout(s) for Farefare
+---
+layout: default
+---
 
-**Legend:**
+# Keyboard layouts for Farefare
 
-| Mode       | Default | AltGr/Option | Caps Lock (Mode Switch) | Caps Lock + AltGr/Option |
-| ----------:|:-------:|:------------:|:-----------------------:|:------------------------:|
-|**Standard**| black   | red          | blue                    | purple                   |
-|**Deadkey** | green   | orange       | pink                    | green                    |
+> Tip: These keyboards are interactive — click or tap keys to explore different layers (Shift, Alt, etc.)
 
-# Keyboard Layouts
+## Mac
 
-No keyboard layout defined yet!
+<iframe src="https://keyboard.giellalt.org/embed?kbd=gur&layout=en&platform=macOS&variant=primary"></iframe>
+
+## Windows
+
+<iframe src="https://keyboard.giellalt.org/embed?kbd=gur&layout=en&platform=windows&variant=primary"></iframe>
+
+## Mac
+
+<iframe src="https://keyboard.giellalt.org/embed?kbd=gur&layout=gur&platform=macOS&variant=primary"></iframe>
+
+## Windows
+
+<iframe src="https://keyboard.giellalt.org/embed?kbd=gur&layout=gur&platform=windows&variant=primary"></iframe>
+
+## ChromeOS
+
+<iframe src="https://keyboard.giellalt.org/embed?kbd=gur&layout=gur&platform=chromeOS&variant=primary"></iframe>
+
+## Android
+
+### Phone
+
+<iframe src="https://keyboard.giellalt.org/embed?kbd=gur&layout=gur&platform=android&variant=primary"></iframe>
+
+### Tablet
+
+<iframe src="https://keyboard.giellalt.org/embed?kbd=gur&layout=gur&platform=android&variant=tablet-600"></iframe>
+
+## iOS/iPadOS
+
+### iPhone
+
+<iframe src="https://keyboard.giellalt.org/embed?kbd=gur&layout=gur&platform=iOS&variant=primary"></iframe>
+
+### 9" iPad
+
+<iframe src="https://keyboard.giellalt.org/embed?kbd=gur&layout=gur&platform=iOS&variant=iPad-9in"></iframe>
+
+### 12" iPad
+
+<iframe src="https://keyboard.giellalt.org/embed?kbd=gur&layout=gur&platform=iOS&variant=iPad-12in"></iframe>
