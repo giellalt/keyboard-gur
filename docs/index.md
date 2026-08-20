@@ -1,10 +1,10 @@
 # Documentation for the Farefare keyboards
 
-# Layouts
+## Layouts
 
--   [Layout overview](layout.md)
+- [Layout overview](layout.md)
 
-# Other information
+## Other information
 
 Add text and links as needed.
 
